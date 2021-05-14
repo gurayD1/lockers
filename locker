@@ -1,4 +1,3 @@
-package Extra_Lab;
 
 public class lockers {
 	public static boolean locker[] = new boolean[100];
